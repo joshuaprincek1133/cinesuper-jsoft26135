@@ -1,6 +1,6 @@
 # 🎬 CineSuper — Mini OTT Movie Database
 
-**Live Demo:** https://YOUR-USERNAME.github.io/cinesuper-YOUR-JSOFT-ID/
+**Live Demo:** https://joshuapricek1133.github.io/cinesuper-JSOFT26135/
 
 **Student:** JOSHUA PRINCE K | **JSOFT:** 26135
 **Institution:** Jain School of Future Technology

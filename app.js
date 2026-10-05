@@ -56,7 +56,7 @@ async function loadMovies() {
 
   let query = db
     .from("movies")
-    .select("id, title, release_year, language, duration_min, description, poster_url, genres(name)")
+    .select("id, title, release_year, language, duration_min, description, poster_url,is_trending genres(name)")
     .order("release_year", { ascending: false });
 
   const search = searchInput.value.trim();
